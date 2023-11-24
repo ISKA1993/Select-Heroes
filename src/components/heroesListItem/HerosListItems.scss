@@ -1,0 +1,8 @@
+
+.heroes-list-item {
+  transition: transform 0.3s ease; 
+  
+  &:hover {
+    transform: translateY(-5px); /* Изменяем положение по оси Y на -5px при наведении */
+  }
+}

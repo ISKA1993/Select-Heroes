@@ -1,0 +1,60 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": "bf2de800-73f8-401f-8555-91242cd1e88c",
+      "name": "Yslam",
+      "description": "5",
+      "element": "water"
+    },
+    {
+      "id": "008cbf20-d994-449f-bdcd-b41d06b4b96c",
+      "name": "Serdar ",
+      "description": "5",
+      "element": "earth"
+    },
+    {
+      "id": "911b6656-9da8-42a9-abc7-491114d5f720",
+      "name": "Junior Suite",
+      "description": "6",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
